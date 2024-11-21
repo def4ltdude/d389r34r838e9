@@ -1,0 +1,4 @@
+requests
+scapy
+colorama
+sockets
