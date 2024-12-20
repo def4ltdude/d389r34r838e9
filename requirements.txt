@@ -2,3 +2,5 @@ requests
 scapy
 colorama
 sockets
+TIME-python
+thread
